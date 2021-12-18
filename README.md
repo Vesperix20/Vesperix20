@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vesperix20
+- 👀 I’m interested in Scxipted :hearteyes:
+- 🌱 I’m currently learning Lua+++
+- 💞️ I’m looking to collaborate on Scxipted :hearteyes:
+- 📫 How to reach me contact@scxipted.tech
